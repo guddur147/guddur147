@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @guddur147
-- 👀 I’m interested in Exploring the fascinating world of cryptocurrencies and blockchain technology.
-- 🌱 I’m currently learning Deepening my understanding of blockchain development, smart contracts, and decentralized applications (DApps). Constantly staying updated on the latest trends and innovations in the crypto space.
+- 👋 Hi
+- 👀 I’m interested in exploring the fascinating world of AI and Blockchain.
+- 🌱 I’m currently learning, deepening my understanding of blockchain development, smart contracts, and decentralised applications (DApps). Constantly staying updated on the latest trends and innovations in the crypto space.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - GitHub: [@guddur147](https://github.com/guddur147)
 - ⚡ Fun fact: Did you know that the first recorded Bitcoin purchase was for pizza? Back in 2010, a programmer paid 10,000 bitcoins for two pizzas, marking the first real-world transaction using the cryptocurrency!
 
 <!---
